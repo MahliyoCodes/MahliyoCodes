@@ -6,26 +6,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=MAHLIYO522&color=blueviolet&style=flat-square&label=Profil+tashrif+buyurganlar)
 
+<p>Men foydalanuvchilar uchun qulay, chiroyli va animatsiyali interfeyslar yaratishga ishqibozman.<br>Hozirda zamonaviy veb-texnologiyalar bilan faol shug'ullanib, o'z mahoratimni oshirayotgan izlanuvchan dasturchiman. 🌸</p>
+
 </div>
-
-<table>
-<tr>
-<td width="30%" align="center">
-<img src="https://github.com/MahliyoCodes.png" width="180" style="border-radius:50%;" />
-</td>
-<td width="70%">
-
-Men foydalanuvchilar uchun qulay, chiroyli va animatsiyali interfeyslar yaratishga ishqibozman.
-Hozirda zamonaviy veb-texnologiyalar bilan faol shug'ullanib, o'z mahoratimni oshirayotgan izlanuvchan dasturchiman. 🌸
-
-- 🔭 **Hozirda:** React.js orqali murakkab komponentlar va state management ustida ishlayapman
-- 🌱 **O'rganayotganman:** TypeScript va Next.js
-- 🎯 **Maqsadim:** Yaqin kelajakda **Full-Stack** darajasiga chiqish
-- 📍 **Joylashuv:** Toshkent viloyati, O'zbekiston
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -39,8 +22,12 @@ Hozirda zamonaviy veb-texnologiyalar bilan faol shug'ullanib, o'z mahoratimni os
 
 ### 🚀 Men haqimda:
 
+- 🔭 **Hozirda:** React.js orqali murakkab komponentlar va state management ustida ishlayapman
+- 🌱 **O'rganayotganman:** TypeScript va Next.js
+- 🎯 **Maqsadim:** Yaqin kelajakda **Full-Stack** darajasiga chiqish
 - ⚡ **Qiziqishlarim:** CSS/SCSS animatsiyalari, Glassmorphism & Neumorphism dizaynlar
 - 🎨 **Hobbi:** Figma'da yangi interfeyslar loyihalashtirish
+- 📍 **Joylashuv:** Toshkent viloyati, O'zbekiston
 - 😄 **Pronoun:** she/her
 
 ---
@@ -105,4 +92,4 @@ Hozirda zamonaviy veb-texnologiyalar bilan faol shug'ullanib, o'z mahoratimni os
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-</div>****
+</div>
