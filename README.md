@@ -50,11 +50,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahliyoDev-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=818CF8&text_color=C4B5FD&ring_color=7C3AED" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahliyoDev-max&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=818CF8&sideLabels=A78BFA&dates=6E6E8A" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MahliyoCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=818CF8&text_color=C4B5FD&ring_color=7C3AED&border_radius=12" height="195" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahliyoCodes&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=818CF8&sideLabels=A78BFA&dates=6E6E8A&border_radius=12" height="195" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahliyoDev-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahliyoDev-max&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=818CF8&point=EC4899&area=true" width="49%" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahliyoCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8&border_radius=12" height="195" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahliyoCodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=818CF8&point=EC4899&area=true&border_radius=12" width="62%" />
+
+<br/><br/>
+
+<img src="https://github-readme-trophies.vercel.app/?username=MahliyoCodes&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="90%" />
 
 </div>
 
@@ -76,7 +82,7 @@
 ### 🔥 Faollik
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahliyoDev-max&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=818CF8" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahliyoCodes&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=818CF8" width="70%" />
 </div>
 
 ### 📫 Bog'lanish:
