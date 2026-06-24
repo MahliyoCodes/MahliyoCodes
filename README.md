@@ -6,6 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=MAHLIYO522&color=blueviolet&style=flat-square&label=Profil+tashrif+buyurganlar)
 
+
 <p>Men foydalanuvchilar uchun qulay, chiroyli va animatsiyali interfeyslar yaratishga ishqibozman.<br>Hozirda zamonaviy veb-texnologiyalar bilan faol shug'ullanib, o'z mahoratimni oshirayotgan izlanuvchan dasturchiman. 🌸</p>
 
 </div>
