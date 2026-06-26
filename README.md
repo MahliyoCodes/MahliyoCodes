@@ -6,6 +6,17 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=MAHLIYO522&color=blueviolet&style=flat-square&label=Profil+tashrif+buyurganlar)
 
+### 📫 Bog'lanish:
+
+<a href="https://t.me/Akmalovna_0718" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="mailto:mahliyoakmalovna5@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://portfolio-f602bd.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
 
 <p>Men foydalanuvchilar uchun qulay, chiroyli va animatsiyali interfeyslar yaratishga ishqibozman.<br>Hozirda zamonaviy veb-texnologiyalar bilan faol shug'ullanib, o'z mahoratimni oshirayotgan izlanuvchan dasturchiman. 🌸</p>
 
@@ -84,17 +95,6 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahliyoCodes&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=818CF8" width="70%" />
-</div>
-
-### 📫 Bog'lanish:
-
-<div align="center">
-  <a href="https://t.me/Akmalovna_0718" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:mahliyoakmalovna5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </div>
 
 <div align="center">
